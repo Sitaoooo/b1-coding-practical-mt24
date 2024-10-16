@@ -1,4 +1,4 @@
-class controller:
+class Controller:
     """
     This class implement using a PD feedback controller
     attribute: 
